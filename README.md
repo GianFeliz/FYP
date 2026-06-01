@@ -68,6 +68,4 @@ Nanyang Technological University
 
 Author: Gian Gabriel Santos Feliciano
 
-## License
 
-Specify your preferred license here.
