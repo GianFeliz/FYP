@@ -36,7 +36,7 @@ pip install numpy pygame matplotlib
 Run the simulation:
 
 ```bash
-python main.py
+python SolarSystemSim.py
 ```
 
 ## Controls
